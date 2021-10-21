@@ -18,11 +18,12 @@
   Main Memory is volatile memory that is very fast and stores a small amount of information such as Ram. The memory disappears after the computer is shuted down. <br />
   
   **- Auxiliary Memory** <br />
-  Auxiliary Memory stores memory that doesn't get erased such as SSD and HDD. 
+  Auxiliary Memory stores memory that doesn't get erased such as SSD and HDD. <br /><br /><br />
   
   
-  ** Relation of each**
+  **Relation of each** <br />
   In sequence, CPU ask -> people answer with programming -> saved in Auxiliary Memory -> computer change program in binary and understand -> computer answer
     
 
-  
+
+- <ins>Python as an language</ins> <br />
