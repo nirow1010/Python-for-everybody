@@ -34,7 +34,7 @@
 
 
 - <ins>Reserved Word, Sequenctial, Conditional, and Repeated</ins> <br /><br />
-  **Reserved Word and creating sentence** 
+  **Reserved Word and creating sentence** <br />
   - Reserved Word: <br />
     Reserved words are python's designated words that can't be used as the name of variable, function, and identifier. <br /><br>
     For example, <br>
@@ -43,13 +43,27 @@
     x = 2
     ``` 
     
-    However, we can't make variable that starts with number or uppercase. Also we can't use python's designated names
+    However, we can't make variable that starts with number or uppercase. Also we can't use python's designated names like
     
     ``` python
     2jk = 2
     X = 2
     function = 2
     ```
+    <br />
     
+  **How to program: interactive style and script style** <br />
+    - Interactive: <br />
+      Interactive is writing and executing the code one by one. <br />
+      
+    - Script: <br />
+      Writing multiple codes and then executing at final. Script style is further efficient than interactive style if the code gets longer. <br />
     
+    - We usually write codes as script and save them to Auxiliary Memory, then execute. <br /><br />
+
+
+  **Controlling the flow of program** <br />
+    1. Sequential\
+    2. Conditional\
+    3. Repeated
     
