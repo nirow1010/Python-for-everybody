@@ -29,8 +29,11 @@
 
 - <ins>Python as an language</ins> <br /><br />
   **Syntax Error** <br />
-    - As you do programming in python, you will encounter syntax error (grammer error in programming language) a lot. Programming language can only understand accurate content.
+  - As you do programming in python, you will encounter syntax error (grammer error in programming language) a lot. Programming language can only understand accurate content. <br /><br /><br />
 
 
 
-- <ins>Reserved Word, Sequenctial, Conditional, and Repeated</ins>
+- <ins>Reserved Word, Sequenctial, Conditional, and Repeated</ins> <br /><br />
+  **Reserved Word and creating sentence** 
+  - Reserved Word: <br />
+    Reserved words are python's designated words that can't be used as the name of variable 
