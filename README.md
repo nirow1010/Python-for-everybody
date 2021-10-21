@@ -6,7 +6,7 @@
 
 - <ins>Computer's inside structure</ins> <br />
   **CPU** <br />
-    CPU operates the program and has surpassing processing power. <br /><br />
+    &nbspCPU operates the program and has surpassing processing power. <br /><br />
   **Input Device** <br />
     Input device is device that gets input by people such as mouse and keyboard. <br /><br />
   **Output Device** <br />
