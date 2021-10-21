@@ -1,7 +1,7 @@
 # Python-for-everybody
 <ins>**Introduction**</ins>
 
-<span style="font-size: 20px;">- <ins>Why do we do programming</ins></span> <br />
+- <ins>Why do we do programming</ins> <br />
   skip
 
 - <ins>Computer's inside structure</ins> <br /><br />
@@ -36,4 +36,20 @@
 - <ins>Reserved Word, Sequenctial, Conditional, and Repeated</ins> <br /><br />
   **Reserved Word and creating sentence** 
   - Reserved Word: <br />
-    Reserved words are python's designated words that can't be used as the name of variable 
+    Reserved words are python's designated words that can't be used as the name of variable, function, and identifier. <br /><br>
+    For example, <br>
+    we can make variable like
+    ``` python
+    x = 2
+    ``` 
+    
+    However, we can't make variable that starts with number or uppercase. Also we can't use python's designated names
+    
+    ``` python
+    2jk = 2
+    X = 2
+    function = 2
+    ```
+    
+    
+    
