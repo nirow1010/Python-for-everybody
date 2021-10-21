@@ -6,15 +6,15 @@
 
 - <ins>Computer's inside structure</ins> <br />
   **- CPU** <br />
-    &ensp;CPU operates the program and has surpassing processing power. <br /><br />
+    &emsp;CPU operates the program and has surpassing processing power. <br />
   **- Input Device** <br />
-    &ensp;Input device is device that gets input by people such as mouse and keyboard. <br /><br />
+    &emsp;Input device is device that gets input by people such as mouse and keyboard. <br />
   **- Output Device** <br />
-    &emsp;Output device is device that shows outputed results such as screen and speaker. <br /><br />
+    &emsp;Output device is device that shows outputed results such as screen and speaker. <br />
   **- Main Memory** <br />
-    &ensp;Main Memory is volatile memory that is very fast and stores a small amount of information such as Ram. The memory disappears after the computer is shuted down.<br /><br />
+    &emsp;Main Memory is volatile memory that is very fast and stores a small amount of information such as Ram. The memory disappears after the computer is shuted down.<br /><br />
   **- Auxiliary Memory** <br />
-    &ensp;Auxiliary Memory stores memory that doesn't get erased such as SSD and HDD. <br /><br /><br />
+    &emsp;Auxiliary Memory stores memory that doesn't get erased such as SSD and HDD. <br /><br /><br />
     
 
   
