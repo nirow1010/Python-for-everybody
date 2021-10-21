@@ -1,7 +1,7 @@
 # Python-for-everybody
 <ins>**Introduction**</ins>
 
-- <ins>Why do we do programming</ins> <br />
+<span style="font-size: 20px;">- <ins>Why do we do programming</ins></span> <br />
   skip
 
 - <ins>Computer's inside structure</ins> <br /><br />
