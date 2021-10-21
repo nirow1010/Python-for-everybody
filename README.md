@@ -63,7 +63,7 @@
 
 
   **Controlling the flow of program** <br />
-    1. Sequential\
-    2. Conditional\
+    1. Sequential
+    2. Conditional
     3. Repeated
     
