@@ -64,11 +64,11 @@
 
   **Controlling the flow of program** <br />
     1. Sequential <br />
-    Sequential flow of code. <br /><br />
+      Sequential flow of code. <br /><br />
     2. Conditional <br />
-    The code activates when condition is true. We use if statement to do this. <br /><br />
+      The code activates when condition is true. We use if statement to do this. <br /><br />
     3. Repeated <br />
-    While the condition is true, repeat. <br /><br /><br />
+      While the condition is true, repeat. <br /><br /><br />
     
     
   
