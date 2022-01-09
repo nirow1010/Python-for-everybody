@@ -106,6 +106,34 @@
 
 <ins>**Variable, Expression, Code**</ins>
       
-- <ins></ins>
+- <ins>Variable, Expression, Sentences</ins> <br /><br />
+  **Constants** <br />
+  - Constant doesn't change <br />
+    ```python
+    print(123) #123으로 출력, 123이 상수
+    print(98.6) # 98.6으로 출력, 98.6이 상수
+    print('Hello World') # Hello World로 출력, Hello World가 상수
+    ```
+  <br />
+  
+  **Reserved Words** <br />
+  - Reserved Words are the special words that python has chose its function. For example, if python encounters reserved word "if", the conditional operates. <br /><br />
+
+  **Variables** <br />
+  - We can assign data with a comprehensible name into the memory as variable. <br />
+    For Example: 
+      ```python
+      x = 12.2
+      print(x) # 12.2가 출력됩니다.
+      y = 14
+      x = 100 
+      print(x) # 100이 출력됩니다.
+      ```
+      - x, y: name of variable <br />
+      - =: allocator that assigns specific value(s) to the relevant variable <br />
+      - 12.2, 14: values we inputed in the variable <br /><br />
+
+    After declaring as a variable, we can reassign the value in that variable.
+   
   
     
