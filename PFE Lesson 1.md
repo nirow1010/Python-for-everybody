@@ -65,7 +65,7 @@
   **Controlling the flow of program** <br />
     1. Sequential <br />
       Sequential flow of code. <br /><br />
-      Ex: 
+      For Example: 
         ```python
         n = 5
         while n > 0:
@@ -73,11 +73,11 @@
           n = n - 1
         print('Blastoff!') # Blastoff를 출력합니다.
         ```
-        <br /><br />
+        <br />
       
     2. Conditional <br />
       The code activates when condition is true. We use if statement to do this. <br /><br />
-      Ex: 
+      For Example: 
         ```python
         x = 5
         if x < 10: 
@@ -86,11 +86,11 @@
           print('Bigger')
         print('Finis') # Finis가 출력됩니다.
         ```
-        <br /><br />
+        <br />
       
     3. iteration <br />
       While the condition is true, repeatedly trigger the inner codes. <br /><br />
-      Ex: 
+      For Example: <br />
         ```python
         n = 5
         while n > 0:
