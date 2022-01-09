@@ -109,6 +109,7 @@
 - <ins>Variable, Expression, Sentences</ins> <br /><br />
   **Constants** <br />
   - Constant doesn't change <br />
+ 
     ```python
     print(123) #123으로 출력, 123이 상수
     print(98.6) # 98.6으로 출력, 98.6이 상수
